@@ -1,0 +1,178 @@
+.fsgk{
+    height:212px;
+}
+.fsgk_flash{  
+    float:left;
+    width:233px;
+    height:212px;
+	border:1px solid #cccccc;
+}
+.fzjj{
+    float:left;
+    width:403px;
+	border:1px solid #cccccc;	
+    height:212px;
+    margin-left:10px;		
+}
+.fzjj h2,.qyzx h2{
+    height:35px;
+	background:#e4e4e4;
+	font-size:16px;
+	line-height:35px;
+	border-bottom:1px solid #cccccc;
+	text-indent:1em;
+	font-family:"微软雅黑";
+
+}
+.fzjj p{
+    font-size:14px;
+	line-height:24px;
+	text-indent:2em;
+	padding:10px 10px 0;
+}
+.qyzx{
+    width:318px;
+    height:212px;	
+	border:1px solid #cccccc;	
+	float:right;
+}
+.qyzx ul{
+    padding:8px 10px 0 10px;
+ 
+}
+.qyzx ul li a{
+    font-size:14px;
+	text-indent:1em;
+	display:block;
+    background:url(../images/title_bg.jpg) no-repeat left center;
+	line-height:30px;
+	height:30px;
+	border-bottom:1px dashed #cccccc;
+}
+.qyzx ul li a:hover{
+    background:url(../images/title_hover.jpg) no-repeat left center;
+}
+.xiao_banner{
+    height:120px;
+	margin:10px auto;
+}
+.fwxm_kuai{
+    width:318px;
+	height:228px;
+	float:left;
+	margin:0 10px 10px 0;
+	border:1px solid #cccccc;	
+}
+.fwxm_kuai:nth-child(3n){
+    margin-right:0;
+}
+.fwxm_kuai h1{
+    height:35px;
+	background:#e4e4e4;
+	font-size:16px;
+	line-height:35px;
+	border-bottom:1px solid #cccccc;
+	position:relative;
+	margin-bottom:8px;
+}
+.fwxm_kuai h1 span{
+	position:absolute;
+	top:2px;
+	right:6px;
+	
+}
+.fwxm_kuai h1 span a{
+    font-size:12px;
+}
+.fwxm_kuai h1 a.a_title{
+	font-family:"微软雅黑";
+    background:#353535;
+	color:#ffffff;
+	width:92px;
+	display:block;
+	text-align:center;
+}
+
+.fwxm_kuai dl{
+    clear:both;
+	line-height:28px;
+	height:28px;
+    padding:0 10px 0 10px;	
+}
+.fwxm_kuai dl dt{
+    float:left;
+}
+.fwxm_kuai dl dt a{
+	text-indent:1em;
+    white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	display:block;
+	width:240px;
+    background:url(../images/title_bg.jpg) no-repeat left center;
+}
+.fwxm_kuai dl dt a:hover{
+    background:url(../images/title_hover.jpg) no-repeat left center;
+}
+.fwxm_kuai dl dd{
+    float:right;
+}
+.gz_case{
+	border:1px solid #cccccc;	
+	width:978px;
+	margin:0 auto 10px;
+}
+.gz_case h1{
+	font-family:"微软雅黑";
+    height:40px;
+	background:url(../images/nav_hover.png) ;
+	font-size:16px;
+	line-height:40px;
+	border-bottom:1px solid #cccccc;
+	text-indent:1em; 
+    color:#ffffff;	
+	position:relative;	
+}
+.gz_case h1 span a{
+    color:#ffffff;
+}
+.gz_case h1 span{
+	position:absolute;
+	top:2px;
+	right:6px;
+}
+.case_kuai{
+    width:232px;
+	height:196px;
+	border:1px solid #cccccc;	
+	float:left;
+	margin:5px;
+	display:inline;
+}
+.case_kuai img{
+    margin:3px;
+}
+.case_kuai h3{
+    height:36px;
+    background:#efefef;
+	border-top:1px solid #cccccc;		
+}
+.case_kuai h3 a{
+    display:block;
+	line-height:36px;
+	text-align:center;
+}
+.links{
+    width:978px;
+	border:1px solid #cccccc;		
+	margin:0 auto;
+}
+.links p{
+    line-height:42px;
+	font-size:14px;
+	text-indent:10px;
+}
+.links p span{
+    font-weight:bold;
+
+}

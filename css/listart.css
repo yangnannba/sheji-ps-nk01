@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+.con_left{
+    width:200px; 
+	float:left;
+	overflow:hidden;
+}
+.xmfl_l{
+    width:198px;
+	border:1px solid #cccccc;		
+}
+.con_left h2{
+    background:#e4e4e4;
+	font-size:16px;
+	font-family:"微软雅黑";
+	line-height:36px;
+	text-indent:1em;
+}
+.con_left ul li{
+    width:162px;
+    margin:5px auto;
+	border:1px solid #cccccc;		
+}
+.con_left ul li a{
+    width:162px;
+	height:30px;
+	line-height:30px;
+	background:#f4f4f4 url(../images/jiantou.png) no-repeat 130px center;
+	display:block;
+	text-indent:1em;
+}
+.con_left ul li a:hover{
+	background:#e4e4e4 url(../images/jiantou.png) no-repeat 132px center;
+}
+.lxfs_l{
+    width:198px;
+	border:1px solid #cccccc;	
+	margin-top:10px;
+}
+.lxfs_l p{
+    font-size:14px;
+    padding:5px 15px;
+	line-height:28px;
+}
+
+.con_right{
+    width:768px;
+    float:right;
+	border:1px solid #cccccc;	
+}
+.con_r_title{
+    background:#e4e4e4 url(../images/home_title.png) no-repeat 10px center;
+	font-size:16px;
+	font-family:"微软雅黑";
+	line-height:36px;
+	text-indent:2em;
+}
+.list_kuai{
+    width:244px;
+	height:196px;
+	border:1px solid #cccccc;	
+	float:left;
+	margin:5px;
+	overflow:hidden;
+	display:inline;
+}
+.list_kuai img{
+    margin:3px;
+}
+.list_kuai h3{
+    height:36px;
+    background:#efefef;
+	border-top:1px solid #cccccc;		
+}
+.list_kuai h3 a{
+    display:block;
+	line-height:36px;
+	text-align:center;
+}
+.pagelist{
+    margin-left:50px;
+	height:38px;
+}
+.pagelist li{
+	float:left;
+	border:1px solid #cccccc;	
+    margin:5px;		
+}
+.pagelist li a{
+	display:block;
+    padding:5px 10px;
+}
+.pagelist li.thisclass a{
+    color:#ffffff;
+    background:#333333;
+}
+.dede_pages{
+   height:100%;
+   margin:10px auto;
+}
+.datatime{
+   padding:0px 15px 10px;
+}
+.datatime p{
+   color:#8e8e8e;
+   font-size:12px;
+   border-bottom:1px dashed #cccccc;
+   padding:5px 15px 10px;
+   text-align:center;
+}
+.article{
+   padding:0 15px;
+}
+
+.art_title{
+   font-size:18px;
+   font-family:微软雅黑;
+   text-align:center;
+   line-height:36px;
+   margin-top:10px;
+}
+.article p{
+   font-size:14px;
+   line-height:2em;
+   text-indent:2em;
+}
+.nex_pre{
+   margin:15px;
+   font-size:14px;
+}
+.nex_pre li{
+   line-height:24px;
+}
